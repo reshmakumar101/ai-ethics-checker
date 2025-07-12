@@ -6,6 +6,8 @@ A globally grounded, role-based ethical reflection framework for teams building 
 
 The **REFLECT AI Framework v1.0** — *Responsible Evaluation Framework for Legal, Ethical, Compliance & Trust in AI* — was developed by the creator of the [AI Ethics Checker GPT](https://chatgpt.com/g/g-686972141ca081918f99a0a1e68345ce-ai-ethics-checker) to help product, data, legal, and business teams assess potential ethical risks before launching AI systems.
 
+This tool is designed as an internal-use reflection aid, especially for organizations navigating responsible AI practices in environments where user vulnerability, regulatory scrutiny, or ethical ambiguity may arise.
+
 It draws from globally accepted standards, including:
 - NIST AI Risk Management Framework (RMF)
 - EU AI Act
@@ -55,7 +57,7 @@ This reflection framework is educational and exploratory in nature. It does **no
 ## 👤 Attribution
 
 The REFLECT AI Framework is an original framework created by the developer of the [AI Ethics Checker GPT](https://chatgpt.com/g/g-686972141ca081918f99a0a1e68345ce-ai-ethics-checker).  
-All rights reserved. Please do not reproduce, publish, or present it without permission or clear attribution.
+This framework is shared for educational and internal use only. Please do not reproduce or present it without written permission or clear attribution. 
 
 ---
 
@@ -63,6 +65,7 @@ All rights reserved. Please do not reproduce, publish, or present it without per
 
 This project was created entirely outside of work, using personal time and resources.  
 It is not affiliated with or representative of any employer, past or present. 
+It is intended to support thoughtful dialogue and responsible development, not to critique or interfere with any specific system or organization.
 
 ### 🧾 Prior Art Declaration
 
