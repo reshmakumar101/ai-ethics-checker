@@ -4,7 +4,7 @@ A globally grounded, role-based ethical reflection framework for teams building 
 
 ## 🔍 What is the REFLECT AI Framework?
 
-The **REFLECT AI Framework v1.0** — *Responsible Evaluation Framework for Legal, Ethical, Compliance & Trust in AI* — was developed by the creator of the [AI Ethics Checker GPT](https://chatgpt.com/g/g-686972141ca081918f99a0a1e68345ce-ai-ethics-checker) to help product, data, legal, and business teams assess potential ethical risks before launching AI systems. It also includes an optional trauma-informed, ADA-conscious, and survivor-safety reflection mode for emotionally sensitive use cases (e.g., healthcare, education, social support, or HR).
+The **REFLECT AI Framework v1.0** — *Responsible Evaluation Framework for Legal, Ethical, Compliance & Trust in AI* — was developed by the creator of the [AI Ethics Assistant GPT](https://chatgpt.com/g/g-686972141ca081918f99a0a1e68345ce-ai-ethics-checker) to help product, data, legal, and business teams assess potential ethical risks before launching AI systems. It also includes an optional trauma-informed, ADA-conscious, and survivor-safety reflection mode for emotionally sensitive use cases (e.g., healthcare, education, social support, or HR).
 
 This tool is designed as an internal-use reflection aid, especially for organizations navigating responsible AI practices in environments where user vulnerability, regulatory scrutiny, or ethical ambiguity may arise.
 
@@ -46,7 +46,7 @@ The REFLECT AI Framework guides reflection across six core categories. If enable
 ## 🧠 How to Use It
 
 You can:
-- Use the [AI Ethics Checker GPT](https://chatgpt.com/g/g-686972141ca081918f99a0a1e68345ce-ai-ethics-checker) to walk through a guided reflection
+- Use the [AI Ethics Assistant GPT](https://chatgpt.com/g/g-686972141ca081918f99a0a1e68345ce-ai-ethics-checker) to walk through a guided reflection
 - Embed this framework into internal checklists, design reviews, or compliance workflows
 - Customize the categories or risk thresholds to align with your domain
 - Enable the trauma-informed mode to reflect on accessibility, safety, and psychological impact when building sensitive AI applications
@@ -57,7 +57,7 @@ This reflection framework is educational and exploratory in nature. It does **no
 
 ## 👤 Attribution
 
-The REFLECT AI Framework is an original framework created by the developer of the [AI Ethics Checker GPT](https://chatgpt.com/g/g-686972141ca081918f99a0a1e68345ce-ai-ethics-checker).  
+The REFLECT AI Framework is an original framework created by the developer of the [AI Ethics Assistant GPT](https://chatgpt.com/g/g-686972141ca081918f99a0a1e68345ce-ai-ethics-checker).  
 This framework is shared for educational and internal use only. Please do not reproduce or present it without written permission or clear attribution. 
 
 ---
@@ -70,7 +70,7 @@ It is intended to support thoughtful dialogue and responsible development, not t
 
 ### 🧾 Prior Art Declaration
 
-This serves as a public record of authorship and publication of the **REFLECT AI Framework v1.0**, developed by the creator of the [AI Ethics Checker GPT](https://chatgpt.com/g/g-686972141ca081918f99a0a1e68345ce-ai-ethics-checker).
+This serves as a public record of authorship and publication of the **REFLECT AI Framework v1.0**, developed by the creator of the [AI Ethics Assistant GPT](https://chatgpt.com/g/g-686972141ca081918f99a0a1e68345ce-ai-ethics-checker).
 
 The REFLECT AI Framework is:
 - A structured, role-adaptive ethics reflection method
