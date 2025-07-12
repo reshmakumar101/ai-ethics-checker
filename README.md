@@ -4,7 +4,7 @@ A globally grounded, role-based ethical reflection framework for teams building 
 
 ## 🔍 What is the REFLECT AI Framework?
 
-The **REFLECT AI Framework v1.0** — *Responsible Evaluation Framework for Legal, Ethical, Compliance & Trust in AI* — was developed by the creator of the [AI Ethics Checker GPT](https://chatgpt.com/g/g-686972141ca081918f99a0a1e68345ce-ai-ethics-checker) to help product, data, legal, and business teams assess potential ethical risks before launching AI systems.
+The **REFLECT AI Framework v1.0** — *Responsible Evaluation Framework for Legal, Ethical, Compliance & Trust in AI* — was developed by the creator of the [AI Ethics Checker GPT](https://chatgpt.com/g/g-686972141ca081918f99a0a1e68345ce-ai-ethics-checker) to help product, data, legal, and business teams assess potential ethical risks before launching AI systems. It also includes an optional trauma-informed, ADA-conscious, and survivor-safety reflection mode for emotionally sensitive use cases (e.g., healthcare, education, social support, or HR).
 
 This tool is designed as an internal-use reflection aid, especially for organizations navigating responsible AI practices in environments where user vulnerability, regulatory scrutiny, or ethical ambiguity may arise.
 
@@ -18,7 +18,7 @@ This framework is designed to be practical, structured, and empowering — not j
 
 ## 📂 Framework Categories
 
-The REFLECT AI Framework guides reflection across six core categories:
+The REFLECT AI Framework guides reflection across six core categories. If enabled, trauma- and accessibility-aware prompts are embedded within each category to surface additional ethical considerations for vulnerable users or high-impact settings.
 
 | Category                        | Icon | Description                             |
 |--------------------------------|------|-----------------------------------------|
@@ -49,10 +49,11 @@ You can:
 - Use the [AI Ethics Checker GPT](https://chatgpt.com/g/g-686972141ca081918f99a0a1e68345ce-ai-ethics-checker) to walk through a guided reflection
 - Embed this framework into internal checklists, design reviews, or compliance workflows
 - Customize the categories or risk thresholds to align with your domain
+- Enable the trauma-informed mode to reflect on accessibility, safety, and psychological impact when building sensitive AI applications
 
 ## ⚠️ Disclaimer
 
-This reflection framework is educational and exploratory in nature. It does **not** constitute legal advice or compliance certification.
+This reflection framework is educational and exploratory in nature. It does **not** constitute legal advice, mental health guidance, or compliance certification.
 
 ## 👤 Attribution
 
